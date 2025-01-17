@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TrumpfMetamation_Task2\\TrumpfMetamation_Task2_New\\TrumpfMetamation_Task2\\TrumpfMetamation_Task2.csproj": {}
+  },
+  "projects": {
+    "D:\\TrumpfMetamation_Task2\\TrumpfMetamation_Task2_New\\TrumpfMetamation_Task2\\TrumpfMetamation_Task2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TrumpfMetamation_Task2\\TrumpfMetamation_Task2_New\\TrumpfMetamation_Task2\\TrumpfMetamation_Task2.csproj",
+        "projectName": "TrumpfMetamation_Task2",
+        "projectPath": "D:\\TrumpfMetamation_Task2\\TrumpfMetamation_Task2_New\\TrumpfMetamation_Task2\\TrumpfMetamation_Task2.csproj",
+        "packagesPath": "C:\\Users\\veera\\.nuget\\packages\\",
+        "outputPath": "D:\\TrumpfMetamation_Task2\\TrumpfMetamation_Task2_New\\TrumpfMetamation_Task2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\veera\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FlaUI.Core": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "FlaUI.UIA3": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
