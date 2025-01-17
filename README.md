@@ -1,6 +1,4 @@
-Here’s a `README.md` file for **Task 2** (Alarm Automation). You can copy it and use it in your GitHub repository.
 
-```markdown
 # TrumpfMetamation_Task2 - Alarm Automation
 
 ## Overview
@@ -176,9 +174,3 @@ public class AlarmAutomation
 This project demonstrates the use of **FlaUI** for automating UI tasks in Windows applications like the Clock app. By creating and interacting with alarms, this automation simulates a real-world use case of automating UI-based workflows.
 ```
 
-### How to Use This README:
-1. Create a file named `README.md` in the root of your GitHub repository.
-2. Paste the above contents into the file.
-3. Commit and push the file to GitHub.
-
-Let me know if you need further assistance!
